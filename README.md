@@ -29,7 +29,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   - [How does gRPC work?](#how-does-grpc-work)
   - [What is a webhook?](#what-is-a-webhook)
   - [How to improve API performance?](#how-to-improve-api-performance)
-  - [HTTP 1.0 -\> HTTP 1.1 -\> HTTP 2.0 -\> HTTP 3.0 (QUIC)](#http-10---http-11---http-20---http-30-quic)
+  - **[HTTP 1.0 -\> HTTP 1.1 -\> HTTP 2.0 -\> HTTP 3.0 (QUIC)](#http-10---http-11---http-20---http-30-quic)**
   - [SOAP vs REST vs GraphQL vs RPC](#soap-vs-rest-vs-graphql-vs-rpc)
   - [Code First vs. API First](#code-first-vs-api-first)
   - [HTTP status codes](#http-status-codes)
